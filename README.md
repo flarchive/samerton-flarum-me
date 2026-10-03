@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of samerton/flarum-me.** Not for installation: use [Packagist](https://packagist.org/packages/samerton/flarum-me) or the [upstream repository](https://github.com/samerton/flarum-me).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/samerton-flarum-me/tree/archive/v1.0.3) · Flarum: `^1.0`
+**4** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/samerton-flarum-me/tree/archive/v1.0.3) · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-12-06 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/samerton-flarum-me/tree/archive/v1.0.0) |
+| `v1.0.1` | 2020-12-26 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/samerton-flarum-me/tree/archive/v1.0.1) |
+| `v1.0.2` | 2021-04-09 | `>=0.1.0-beta.16 <0.1.0-beta.17` | [Browse](https://github.com/flarchive/samerton-flarum-me/tree/archive/v1.0.2) |
+| `v1.0.3` | 2021-06-23 | `^1.0` | [Browse](https://github.com/flarchive/samerton-flarum-me/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/samerton-flarum-me.json](https://github.com/flarchive/archive-index/blob/main/packages/samerton-flarum-me.json)
 
